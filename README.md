@@ -35,3 +35,4 @@ PyQGIS를 이용한 KRIGING 보간 및 데이터 코드화, 표준화 작업
 ### 자동화 코드 프로세스
 ![image](https://github.com/teon-u/2023-QGIS-Krig-Automation/assets/89633138/ba643334-86bc-4315-886e-fad4da98c312)
 
+Input 데이터의 경우 수요기업 요청으로 제외하였습니다.
